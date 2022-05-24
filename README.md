@@ -14,7 +14,6 @@ In my spare time, I enjoy some music, go to the cinema and surf!  <br>
 </h3>
 
 <p>
-<img src="https://img.shields.io/badge/-Haskell-%235D4F85?style=flat&logo=haskell" />
 <img src="https://img.shields.io/badge/-Typescript-%233178C6?style=flat&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?&style=flat&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=flatbadge&logo=node.js&logoColor=white"/>   
