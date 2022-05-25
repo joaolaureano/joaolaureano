@@ -18,7 +18,11 @@ In my spare time, I enjoy some music, go to the cinema and surf!  <br>
 <img src="https://img.shields.io/badge/React-20232A?&style=flat&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=flatbadge&logo=node.js&logoColor=white"/>   
 <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" />
-   </p>
+</p>
+<h3> My stats from LeetCode </h3>
+
+![LeetCode Stats](https://leetcode.card.workers.dev/joaopedro?theme=wtf&font=source_code_pro&extension=activity)
+
 <h3> Let's connect! </h3>
 <a href="mailto:laureano.pedrojoao@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/João Pedro Laureano-c14438?style=flat&logo=gmail&logoColor=white" /></a>
 <a href="https://br.linkedin.com/in/joao-pedro-laureano" target="blank"><img align="center" src="https://img.shields.io/badge/João Pedro Laureano-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
