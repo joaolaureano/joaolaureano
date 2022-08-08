@@ -6,7 +6,7 @@ I am a backend developer whose main mission is to deliver my customer high-quali
 In my final year pursuing my Bachelor in Software Engineering.  <br>
 Loves to learn about Software Architecture and to apply them in my projects  <br>
 Enjoy participating in coding challenges <br>
-In my spare time, I enjoy some music, go to the cinema and surf!  <br>
+In my spare time, I enjoy some music, go to the cinema and surf :)  <br>
 
 
 <h3 align="left">
