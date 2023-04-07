@@ -1,14 +1,13 @@
 <h1 >
 👋 Hello there! 👋
 </h1>
-<center><h3> About me </h3></center>
-<center>
+<h3> About me </h3>
   I am a backend developer whose main mission is to deliver my customer high-quality solutions.<br>
   In my final year pursuing my Bachelor in Software Engineering.  <br>
   Loves to learn about Software Architecture and to apply them in my projects  <br>
   Enjoy participating in coding challenges <br>
   In my spare time, I enjoy some music, go to the cinema and surf :)  <br>
-</center>
+
 
 <h3 align="left">
   My stack
