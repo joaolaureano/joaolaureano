@@ -16,7 +16,6 @@
 <p>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-Typescript-%233178C6?style=flat&logo=typescript&logoColor=white"/>
 
 </p>
