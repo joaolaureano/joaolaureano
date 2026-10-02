@@ -1,19 +1,19 @@
 <h1 >
-👋 Hello there! 👋
+👋 Olá! 👋
 </h1>
 
-<p><a href="README.pt-BR.md">🇧🇷 Leia em português</a></p>
+<p><a href="README.md">🇺🇸 Read in English</a></p>
 
-<h3> About me </h3>
-  I am a backend developer whose main mission is to deliver my customer high-quality solutions.<br>
-  In my final year pursuing my Bachelor in Software Engineering.  <br>
-  Loves to learn about Software Architecture and to apply them in my projects  <br>
-  Enjoy participating coding challenges <br>
-  In my spare time, I enjoy some music, go to the cinema and surf :)  <br>
+<h3> Sobre mim </h3>
+  Sou desenvolvedor backend e minha principal missão é entregar soluções de alta qualidade aos meus clientes.<br>
+  Estou no último ano do bacharelado em Engenharia de Software.  <br>
+  Adoro aprender sobre Arquitetura de Software e aplicá-la nos meus projetos  <br>
+  Gosto de participar de desafios de programação <br>
+  No tempo livre, curto música, ir ao cinema e surfar :)  <br>
 
 
 <h3 align="left">
-  My stack
+  Minha stack
 </h3>
 
 <p>
@@ -23,6 +23,6 @@
 
 </p>
 
-<h3> Let's connect! </h3>
+<h3> Vamos nos conectar! </h3>
 <a href="mailto:laureano.pedrojoao@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/João Pedro Laureano-c14438?style=flat&logo=gmail&logoColor=white" /></a>
 <a href="https://br.linkedin.com/in/joao-pedro-laureano" target="blank"><img align="center" src="https://img.shields.io/badge/João Pedro Laureano-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
